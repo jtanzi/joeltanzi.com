@@ -4,14 +4,14 @@ subtitle: Content Writer
 email: joel@jabaradev.com
 description: High-quality SEO content
 baseurl: "" # the subpath of your site, e.g. /blog
-url: joeltanzi.com
+url: 
 author: Joel Tanzi
 street_address: 
 city: Mission
 state: KS
 zip_code: 
 country: United States of America
-phone: TBD
+phone: 9132202409
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
